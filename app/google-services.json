@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "98653518766",
+    "project_id": "skratedemo",
+    "storage_bucket": "skratedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98653518766:android:951ab2241849ec76b7263f",
+        "android_client_info": {
+          "package_name": "com.skrate.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98653518766-k3io2coch9c9hha6bfm47k214sn97o9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skrate.example",
+            "certificate_hash": "7dfae977c9691db9d0c3dfca914248e066c3796a"
+          }
+        },
+        {
+          "client_id": "98653518766-h7pcbginsve7rd7ci1qq63abbaklh1p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhJFTCt18K7ctnp6aBMW7vRvAHardoBDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98653518766-h7pcbginsve7rd7ci1qq63abbaklh1p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

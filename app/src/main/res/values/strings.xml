@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SkrateTechnicalTask</string>
+
+
+    <string name="login_title">Welcome Back to \n Skrate!!</string>
+    <string name="google_signin">Sign In With Google</string>
+    <string name="webclient_id">98653518766-c6fp4em6h6kbdveqk7ft1c0d24dnkqc7.apps.googleusercontent.com</string>
+    <string name="dashboard_stats">Overview</string>
+    <string name="upcoming_sessions_title">Upcoming \n Sessions</string>
+    <string name="job_posting">New Jobs</string>
+
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="network_failure">Network Failure</string>
+    <string name="conversion_error">Conversion Error</string>
+
+
+
+</resources>
